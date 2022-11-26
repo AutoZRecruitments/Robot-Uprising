@@ -1,4 +1,4 @@
-# autoz_task
+# Autoz_task
 
 Open Terminal 
 use git clone this [rep](https://github.com/AutoZRecruitments/Robot-Uprising) to clone the repository.
