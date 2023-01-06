@@ -1,0 +1,19 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/yashas/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/yashas/ros2_ws/install/velodyne_msgs/lib/python3.8/site-packages",
+        "/home/yashas/ros2_ws/install/traversability_layer/lib/python3.8/site-packages",
+        "/home/yashas/ros2_ws/install/slam_toolbox/lib/python3.8/site-packages",
+        "/home/yashas/ros2_ws/install/robot_localization/lib/python3.8/site-packages",
+        "/home/yashas/ros2_ws/install/realsense_camera_msgs/lib/python3.8/site-packages",
+        "/home/yashas/ros2_ws/install/dwb_msgs/lib/python3.8/site-packages",
+        "/home/yashas/ros2_ws/install/nav_2d_msgs/lib/python3.8/site-packages",
+        "/home/yashas/ros2_ws/build/nav2_gazebo_spawner",
+        "/home/yashas/ros2_ws/install/nav2_gazebo_spawner/lib/python3.8/site-packages",
+        "/home/yashas/ros2_ws/install/nav2_common/lib/python3.8/site-packages",
+        "/home/yashas/ros2_ws/install/lidarslam_msgs/lib/python3.8/site-packages",
+        "/home/yashas/ros2_ws/install/husky_msgs/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ]
+}
